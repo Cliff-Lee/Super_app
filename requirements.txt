@@ -1,0 +1,9 @@
+Pillow
+pytesseract
+PyPDF2
+argostranslate
+reportlab
+pdf2image
+openai-whisper
+yt-dlp
+torch
